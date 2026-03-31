@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./assets/over-banner.svg" alt="OVER banner" width="100%">
+  <img src="./assets/Frame67.svg" alt="yk" width="100%">
 </p>
